@@ -1,0 +1,48 @@
+body{
+    background-image: linear-gradient(to right, rgb(0, 8, 12) , rgb(32, 119, 141))
+}
+.main{
+    border: 2px solid #E3DBDB;
+    width: 250px;
+    margin: 0 auto;
+margin-top: 150px;
+}
+.result{
+    width: 97% ;
+    background-color: aliceblue;
+    color:black;
+    height: 30px;
+
+}
+
+.clearBtn{
+    width: 100%;
+    margin-top: 10px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #ff0505;
+    font-weight: bold;
+    font-size: medium;
+}
+.Btn{
+    width: 23%;
+    margin: 1PX;
+    height: 50px;
+    background-color: #4eaab6;
+    border-radius: 5px ;
+    font-weight: bold;
+    font-size: medium;
+}
+.equalBtn{
+    width: 48%;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #4eaab6;
+    font-weight: bold;
+    font-size: medium;
+
+}
+.name{
+    text-align: center;
+    
+}
